@@ -98,7 +98,7 @@ JSON           9 mins   █░░░░░░░░░░░░░░░░░�
 
 ### 📈 my github stats:
 
-<p align="center"> 
+<p> 
   <img src="https://github-readme-stats.vercel.app/api?username=lakshitha1629&show_icons=true&theme=gotham" alt="lakshitha1629" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha1629&layout=compact&theme=gotham" alt="lakshitha1629" />
