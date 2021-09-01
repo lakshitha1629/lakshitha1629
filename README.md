@@ -15,8 +15,10 @@
 <a href="https://github.com/lakshitha1629?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/lakshitha1629?color=green&logo=github">
 </a>
-
 <br />
+<br />
+
+### 👨‍💻 About Me:
 
 hi, i'm [Lakshitha Perera](https://lakshitha1629.github.io), a passionate self-taught full-stack developer and a freelance software engineer from Sri Lanka.
 
@@ -29,7 +31,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:lakshitha1629@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**
+### 🛠️ languages and tools:
 
 <p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -58,7 +60,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
-📊 **this week i spent my time on:**
+### ⏳ this week i spent my time on:
 
 <!--START_SECTION:waka-->
 
@@ -75,7 +77,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/lakshitha1629" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
+### 🚧 my todoist stats:
 
 <!-- TODO-IST:START -->
 
@@ -86,7 +88,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- TODO-IST:END -->
 
-📈 my github stats
+### ✍🏻 My Latest Blog posts:
+
+<!-- BLOG-POST-LIST:START -->
+
+- [How to create a reusable confirmation Modal component in Angular](https://lakshitha1629.medium.com/how-to-create-a-reusable-confirmation-modal-component-in-angular-a199fbc9cd05)
+- [How to create HTTP Error Response Handling component in Angular](https://lakshitha1629.medium.com/how-to-create-http-error-response-handling-component-in-angular-7b03b3de0dd9)
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 my github stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lakshitha1629&show_icons=true&theme=gotham" alt="lakshitha1629" /><p>
 
