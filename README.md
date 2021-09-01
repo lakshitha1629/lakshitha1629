@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### 👨‍💻 About Me:
+## 👨‍💻 About Me:
 
 hi, i'm [Lakshitha Perera](https://lakshitha1629.github.io), a passionate self-taught full-stack developer and a freelance software engineer from Sri Lanka.
 
@@ -31,7 +31,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:lakshitha1629@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-### 🛠️ languages and tools:
+## 🛠️ languages and tools:
 
 <p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -59,8 +59,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
+<hr>
 
-### ⏳ this week i spent my time on:
+## ⏳ this week i spent my time on:
 
 <!--START_SECTION:waka-->
 
