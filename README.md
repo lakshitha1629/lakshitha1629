@@ -56,7 +56,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 Angular  2 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.17 %
 .net     1 hr 21 mins    ████████▓░░░░░░░░░░░░░░░░   34.77 %
-CSS           9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Flask          9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 JSON          9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
