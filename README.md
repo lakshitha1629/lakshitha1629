@@ -98,8 +98,9 @@ JSON           9 mins   █░░░░░░░░░░░░░░░░░�
 
 ### 📈 my github stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lakshitha1629&show_icons=true&theme=gotham" alt="lakshitha1629" /><p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha1629&layout=compact&theme=gotham" alt="lakshitha1629" /><p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshitha1629&show_icons=true&theme=gotham" alt="lakshitha1629" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitha1629&layout=compact&theme=gotham" alt="lakshitha1629" />
+<p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
