@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me:
 
-hi, i'm [Lakshitha Perera](https://lakshitha1629.github.io), a passionate self-taught full-stack developer and a freelance software engineer from Sri Lanka.
+hi, i'm [Lakshitha Perera](https://lakshitha1629.github.io), a passionate self-taught Full-Stack Developer, Machine Learning Engineer and a freelance software engineer from Sri Lanka.
 
 I’m a passionate individual and a technophiles obsessed with the latest technologies. I‘ve always been a great problem solver and creative. I prefer to find new solutions using the latest approaches and systems. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I take great care in the experience, architecture, and code quality of the things I build.
 
