@@ -4,8 +4,8 @@
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="https://stackoverflow.com/users/21494710/bimesh-perera" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
-</a>  
+  <img align="left" src="https://img.shields.io/stackexchange/stackoverflow/r/21494710?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" height=25>
+</a>
 <a href="https://medium.com/@lakshitha1629" target="_blank">
   <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
