@@ -1,15 +1,15 @@
 ### hey there 
 
-<a href="https://twitter.com/lakshitha1629">
-  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/lakshitha1629/">
+<a href="https://www.linkedin.com/in/lakshitha1629/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://medium.com/@lakshitha1629">
+<a href="https://stackoverflow.com/users/21494710/bimesh-perera" target="_blank">
+   <img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
+</a>  
+<a href="https://medium.com/@lakshitha1629" target="_blank">
   <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="https://github.com/lakshitha1629">
+<a href="https://github.com/lakshitha1629" target="_blank">
   <img align="left" src="https://komarev.com/ghpvc/?username=lakshitha1629" alt="page views" />
 </a>
 <a href="https://github.com/lakshitha1629?tab=followers">
@@ -90,7 +90,8 @@ JSON           9 mins   █░░░░░░░░░░░░░░░░░�
 ### ✍🏻 My Latest Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to monetize your video content using in-video ads with Video.js and VAST tags](https://lakshitha1629.medium.com/how-to-monetize-your-video-content-using-in-video-ads-with-video-js-and-vast-tags-7c1f18a1953e)
+- [How to create a simple API from a machine learning model in Python using Flask](https://lakshitha1629.medium.com/how-to-create-a-simple-api-from-a-machine-learning-model-in-python-using-flask-661e9d9c7633)
 - [How to create a reusable confirmation Modal component in Angular](https://lakshitha1629.medium.com/how-to-create-a-reusable-confirmation-modal-component-in-angular-a199fbc9cd05)
 - [How to create HTTP Error Response Handling component in Angular](https://lakshitha1629.medium.com/how-to-create-http-error-response-handling-component-in-angular-7b03b3de0dd9)
 <!-- BLOG-POST-LIST:END -->
